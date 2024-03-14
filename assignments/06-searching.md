@@ -6,6 +6,7 @@
 
 # Problems:
 
+17 Easy
 ## Easy
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
@@ -25,6 +26,7 @@
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 
+16 Meidum
 ## Medium
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
@@ -44,6 +46,7 @@
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
+8 Hard
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)

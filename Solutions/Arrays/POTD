@@ -1,0 +1,102 @@
+/*class Solution {
+    public boolean halvesAreAlike(String s) {
+        String[] firstHalf = new String[(s.length() / 2)];
+        String[] secondHalf = new String[(s.length() / 2)];
+        
+        for(int i= 0; i<s.length()/2; i++){
+            firstHalf[i] = s[i];
+        }
+
+        for(int i= 0; i<s.length/2; i++){
+            secondHalf[i] = s[i+(s.length/2)];
+        }
+
+        //Try storing into arrays, as the value of a,e,i,o,u and A,E,I,O,U, and compare the final arrays
+        
+
+        int counta, counte, counti,counto,countu,countA,countE,countI,countO,countU;
+
+        for(int i = 0; i < firstHalf.length; i++){
+            if(firstHalf[i] == 'a'){
+                counta++;
+            }
+            if(firstHalf[i] == 'A'){
+                countA++;
+            }
+            if(firstHalf[i] == 'e'){
+                counte++;
+            }
+            if(firstHalf[i] == 'E'){
+                countE++;
+            }
+            if(firstHalf[i] == 'i'){
+                counti++;
+            }
+            if(firstHalf[i] == 'I'){
+                countI++;
+            }
+            if(firstHalf[i] == 'o'){
+                counto++;
+            }
+            if(firstHalf[i] == 'O'){
+                countO++;
+            }
+            if(firstHalf[i] == 'u'){
+                countu++;
+            }
+            if(firstHalf[i] == 'U'){
+                countU++;
+            }
+        }
+
+        for(int i = 0; i < secondHalf.length; i++){
+            if(secondHalf[i] == 'a'){
+                count2a++;
+            }
+            if(secondHalf[i] == 'A'){
+                count2A++;
+            }
+            if(secondHalf[i] == 'e'){
+                count2e++;
+            }
+            if(secondHalf[i] == 'E'){
+                count2E++;
+            }
+            if(secondHalf[i] == 'i'){
+                count2i++;
+            }
+            if(secondHalf[i] == 'I'){
+                count2I++;
+            }
+            if(secondHalf[i] == 'o'){
+                count2o++;
+            }
+            if(secondHalf[i] == 'O'){
+                count2O++;
+            }
+            if(secondHalf[i] == 'u'){
+                count2u++;
+            }
+            if(secondHalf[i] == 'U'){
+                count2U++;
+            }
+        } 
+
+        if(counta == count2a && countA == count2A && counte == count2e && countE == count2E && counti == count2i && countI == count2I && counto == count2o && countO == count2O && countu == count2u && countU == count2U){
+            return true;
+        }
+        else{
+            return false;
+        }
+
+
+    }
+}
+
+*/
+
+
+//The above is wrong logic. We cannot traverse through string like an array in Python. We have to use the charAt method
+
+
+

@@ -1,0 +1,37 @@
+class Solution {
+    public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
+        int count = 0;
+
+
+        //use .size instead of .length as this is an arraylist.
+        
+            if(ruleKey.equals("type")){
+                for(int i = 0; i < items.size(); i++){
+                    if(ruleValue.equals(items.get(i).get(0))){
+                        count++;
+                        //break;
+                    }
+                }
+                return count;
+            }
+            if(ruleKey.equals("color")){
+                for(int i = 0; i < items.size(); i++){
+                    if(ruleValue.equals(items.get(i).get(1))){
+                        count++;
+                        //break;
+                    }
+                }
+                return count;
+            }
+            if(ruleKey.equals("name")){
+                for(int i = 0; i < items.size(); i++){
+                    if(ruleValue.equals(items.get(i).get(2))){
+                        count++;
+                        //break;
+                    }
+                }
+                return count;
+            }
+            return 0;
+    }
+}

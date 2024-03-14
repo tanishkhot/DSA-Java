@@ -1,0 +1,19 @@
+class Solution {
+    public int[] shuffle(int[] nums, int n) {
+        int[] shuffled = new int[2*n];
+
+        int j = 0;
+
+        for(int i =0; i<n; i ++){
+            shuffled[j] = nums[i];
+            j++;
+
+            shuffled[j] = nums[n+i];
+            j++;
+        }
+        return shuffled;
+    }
+}
+
+//Useful to creare a different index to traverse in Shuffled array.
+//Simply do j++ and not just 'j' with the loop
