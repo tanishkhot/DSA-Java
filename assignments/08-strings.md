@@ -9,7 +9,9 @@
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
     Sovled: 12/3/24
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+    Solved: 15/3/24
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+    Solved: 15/3/24
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [To Lower Case](https://leetcode.com/problems/to-lower-case/)
