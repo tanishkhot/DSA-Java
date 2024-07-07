@@ -122,6 +122,7 @@
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+    Solved: 
 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
