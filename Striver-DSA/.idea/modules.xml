@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day1-Arrays/Day1-Arrays.iml" filepath="$PROJECT_DIR$/Day1-Arrays/Day1-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList-KK/LinkedList-KK.iml" filepath="$PROJECT_DIR$/LinkedList-KK/LinkedList-KK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Striver-DSA.iml" filepath="$PROJECT_DIR$/.idea/Striver-DSA.iml" />
+    </modules>
+  </component>
+</project>

@@ -13,17 +13,27 @@
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
     Solved: 15/3/24
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+Solved: 14/8/24
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+Solved: 14/8/24
 - [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+Solved: 14/8/24
 - [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+Solved: A lot earlier thank I know
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+Solved: 16/8/24
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+Solved: 16/8/24
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+Solved: 16/8/24
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+Solved: 16/8/24
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+Solved: 16/8/24
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+    Solved: 16/8/24
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)

@@ -1,6 +1,6 @@
 public class Palindrome {
     public static void main(String[] args) {
-        System.out.println(isPalindrome("race a car"));
+        System.out.println(isPalindrome("OP"));
     }
     public static boolean isPalindrome(String s) {
         s = s.toLowerCase();
@@ -20,5 +20,29 @@ public class Palindrome {
         }
         return false;
 
+    }
+
+    public static boolean isPalindrome2(String s){
+        s = s.toLowerCase();
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (Character.isLetterOrDigit(ch)) {
+                sb.append(ch);
+            }
+        }
+
+        int left = 0;
+        int right = sb.length() - 1;
+
+        while(left < right){
+
+            if(sb.charAt(left) != sb.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
+        }
+        return true;
     }
 }

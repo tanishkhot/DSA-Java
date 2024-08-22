@@ -7,7 +7,9 @@
  * }
  */
 
+/*
 class Solution {
+
     public int findInMountainArray(int target, MountainArray mountainArr) {
         int n = mountainArr.length();
         int peak = peakIndexInMountainArray(mountainArr, n);
@@ -57,3 +59,5 @@ class Solution {
         return -1;
     }
 }
+
+*/
